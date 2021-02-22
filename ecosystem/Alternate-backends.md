@@ -17,6 +17,7 @@ There are various alternatives to `psc`'s default JavaScript backend:
 | [purescript-python/purescript-python](https://github.com/purescript-python/purescript-python) | 0.13.x     | Python >= 3.5 |
 | [epost/psc-query](https://github.com/epost/psc-query)                                         | 0.11.7     | Datalog       |
 | [paulyoung/pureswift](https://github.com/paulyoung/pureswift)                                 |            | Swift         |
+| [purehp/purehp](https://github.com/purehp/purehp)                                             |            | PHP           |
 
 ## Stale
 
